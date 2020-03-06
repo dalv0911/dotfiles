@@ -21,10 +21,10 @@ set showcmd
 set number
 
 " Highlight current cursor line
-set cursorline
+" set cursorline
 
 " Show curor column
-set cursorcolumn
+" set cursorcolumn
  
 set virtualedit=onemore
 
