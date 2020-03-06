@@ -1,4 +1,4 @@
-" settiing
+" General setting
 
 set fenc=utf-8
 
@@ -43,6 +43,8 @@ set wildmode=list:longest
 nnoremap j gj
 nnoremap k gk
 
+" Color
+colo elflord
 
 " Tab
 
